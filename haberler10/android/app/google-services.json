@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048273066381",
+    "project_id": "news-d6bb2",
+    "storage_bucket": "news-d6bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048273066381:android:469f24a7e23408f77585c4",
+        "android_client_info": {
+          "package_name": "com.example.temelwidget.ornekler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048273066381-scjt42mcusn9acclm8tb8eaiti8l60j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9AzlVmOkxyFuPMoDp-vGMfQ0VXLK5hBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048273066381-scjt42mcusn9acclm8tb8eaiti8l60j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
